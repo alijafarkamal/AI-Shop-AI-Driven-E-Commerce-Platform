@@ -1,3 +1,4 @@
+![Screenshot from 2025-02-07 15-03-57](https://github.com/user-attachments/assets/e8dd54b6-a50b-4d7a-b6bb-ffd058842f29)
 # 🛍️ **AI Shop** – AI-Driven E-Commerce Platform  
 
 🚀 **AI Shop** is an intelligent, AI-powered e-commerce platform that delivers personalized product recommendations, secure transactions, and a seamless shopping experience.  
@@ -66,11 +67,6 @@ To deploy the project on **Netlify**, run:
 npm run build
 ```
 Then, push the code to GitHub and connect it to **Netlify** for continuous deployment.  
-
----  
-
-## 📸 **Screenshots**  
-_(Add UI screenshots to showcase your app!)_  
 
 ---  
 
